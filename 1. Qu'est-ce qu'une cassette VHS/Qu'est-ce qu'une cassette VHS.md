@@ -6,4 +6,6 @@ La norme a connu plusieurs déclinaisons, comme :
 - S-VHS (qualité encore supérieure au VHS-HQ),
 - VHS-C (format plus compact destiné aux caméscopes, lisible avec un adaptateur dans un magnétoscope VHS), ainsi que d’autres variantes comme le D-VHS ou le W-VHS.
 
-La plupart des magnétoscopes VHS disposent d’une sortie AV composite et/ou péritel. Toutefois, certains modèles, notamment les magnétoscopes professionnels, peuvent utiliser d'autres types de sorties. Il faudra donc parfois prévoir des adaptateurs spécifiques si votre magnétoscope ne possède ni sortie vidéo composite, ni prise péritel. Je ne vais pas aller plus loin dans les explications sur les cassettes VHS ou les magnétoscopes. Néanmoins, vous trouverez quelques ressources utiles dans le [module](https://github.com/TommyLPB39/Guide-Numerisation-VHS/blob/main/1.%20Qu'est-ce%20qu'une%20cassette%20VHS/ressources.md).
+La plupart des magnétoscopes VHS disposent d’une sortie AV composite et/ou péritel. Toutefois, certains modèles, notamment les magnétoscopes professionnels, peuvent utiliser d'autres types de sorties. Il faudra donc parfois prévoir des adaptateurs spécifiques si votre magnétoscope ne possède ni sortie vidéo composite, ni prise péritel. 
+
+Je ne vais pas aller plus loin dans les explications sur les cassettes VHS ou les magnétoscopes. Néanmoins, vous trouverez quelques ressources utiles dans le [module](https://github.com/TommyLPB39/Guide-Numerisation-VHS/blob/main/1.%20Qu'est-ce%20qu'une%20cassette%20VHS/ressources.md).
