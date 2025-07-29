@@ -6,7 +6,7 @@ Mon but est de vous apprendre à numériser des cassettes VHS, qu’il s’agiss
 
 La numérisation peut être complexe, mais mon objectif est de vous accompagner à travers ce guide afin d’obtenir des numérisations de très bonne qualité, et de vous présenter différentes méthodes possibles.
 
-## Chapitre
+## Chapitres
 
 - Premier Chapitre : Qu’est-ce qu’une cassette VHS ?
   - [1. Qu’est-ce qu’une cassette VHS ?](https://github.com/TommyLPB39/Guide-Numerisation-VHS/blob/main/1.%20Qu%27est-ce%20qu%27une%20cassette%20VHS%2FQu%27est-ce%20qu%27une%20cassette%20VHS.md)
