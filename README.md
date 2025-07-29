@@ -6,6 +6,12 @@ Mon but est de vous apprendre à numériser des cassettes VHS, qu’il s’agiss
 
 La numérisation peut être complexe, mais mon objectif est de vous accompagner à travers ce guide afin d’obtenir des numérisations de très bonne qualité, et de vous présenter différentes méthodes possibles.
 
+## Chapitre
+
+* [Premier Chapitre : Qu’est-ce qu’une cassette VHS ?](https://github.com/TommyLPB39/Guide-Numerisation-VHS/tree/main/1.%20Qu'est-ce%20qu'une%20cassette%20VHS)
+ * [1. Qu’est-ce qu’une cassette VHS ?](https://github.com/TommyLPB39/Guide-Numerisation-VHS/blob/main/1.%20Qu%27est-ce%20qu%27une%20cassette%20VHS%2FQu%27est-ce%20qu%27une%20cassette%20VHS.md
+ * [2. Les différentes normes de diffusion vidéo utilisées dans les VHS](https://github.com/TommyLPB39/Guide-Numerisation-VHS/blob/main/1.%20Qu%27est-ce%20qu%27une%20cassette%20VHS%2FLes%20diff%C3%A9rentes%20normes%20de%20diffusion%20vid%C3%A9o%20utilis%C3%A9es%20dans%20les%20VHS.md)
+
 ## Qu’allons-nous apprendre dans ce guide ?
 
 Nous allons commencer par les bases de la numérisation VHS : Qu’est-ce qu’une VHS ? Quels sont les différents standards VHS (*PAL, SECAM, MESECAM, NTSC*) ?
