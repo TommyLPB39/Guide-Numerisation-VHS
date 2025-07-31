@@ -11,6 +11,8 @@ La numérisation peut être complexe, mais mon objectif est de vous accompagner 
 - Premier Chapitre : Qu’est-ce qu’une cassette VHS ?
   - [1. Qu’est-ce qu’une cassette VHS ?](https://github.com/TommyLPB39/Guide-Numerisation-VHS/blob/main/1.%20Qu%27est-ce%20qu%27une%20cassette%20VHS%2FQu%27est-ce%20qu%27une%20cassette%20VHS.md)
   - [2. Les différentes normes de diffusion vidéo utilisées dans les VHS](https://github.com/TommyLPB39/Guide-Numerisation-VHS/blob/main/1.%20Qu%27est-ce%20qu%27une%20cassette%20VHS%2FLes%20diff%C3%A9rentes%20normes%20de%20diffusion%20vid%C3%A9o%20utilis%C3%A9es%20dans%20les%20VHS.md)
+- Second Chapitre : Le matériel
+  - [1. Le Matériel](https://github.com/TommyLPB39/Guide-Numerisation-VHS/blob/main/2.%20Le%20mat%C3%A9riel/Le%20mat%C3%A9riel.md)
 
 ## Qu’allons-nous apprendre dans ce guide ?
 
