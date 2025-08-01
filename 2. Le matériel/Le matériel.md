@@ -14,7 +14,7 @@ Parlons maintenant des critères pour bien choisir son magnétoscope VHS.
 
 L’un des critères les plus importants est le nombre de têtes. Les têtes d’un magnétoscope permettent la lecture, l’enregistrement et l’effacement des cassettes VHS. Un magnétoscope possède une ou plusieurs têtes vidéo et une ou plusieurs têtes audio.
 
-Les magnétoscopes peuvent avoir de 2 à 6 têtes, même si ce n’est pas toujours aussi simple. La plupart du temps, seules les têtes vidéo sont comptées, sauf dans le cas des modèles à 6 têtes, où l’on compte généralement 4 têtes vidéo et 2 têtes audio Hi-Fi.
+Les magnétoscopes peuvent avoir de 2,3,4 ou 6 têtes même si ce n’est pas aussi simple. La plupart du temps, seules les têtes vidéo sont comptées, sauf dans le cas des modèles à 6 têtes, où l’on compte généralement 4 têtes vidéo et 2 têtes audio Hi-Fi.
 
 **⚠️ · Certains modèles sont présentés comme des modèles à 7 têtes. Cependant, il s’agit en réalité de modèles équipés d’une tête d’effacement supplémentaire, appelée "Flying Erase Head".**
 
@@ -29,3 +29,4 @@ Pour obtenir le signal vidéo de notre magnétoscope sur un ordinateur, nous pou
 Je vous recommande d’utiliser une carte ou clé de capture analogique avec une entrée Audio/Vidéo vers USB pour la simplicité.
 
 **⚠️ · Je vous déconseille d’utiliser une clé bon marché comme l’Easycap (clé de basse qualité, non compatible SECAM, avec beaucoup de pertes, etc.)**
+
