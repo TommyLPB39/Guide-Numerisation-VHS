@@ -21,3 +21,11 @@ Les magnétoscopes peuvent avoir de 2 à 6 têtes, même si ce n’est pas toujo
 Faites bien attention à utiliser un magnétoscope compatible avec la norme de vos cassettes VHS (*PAL, SECAM, NTSC*). Gardez à l’esprit que vous pouvez posséder des cassettes enregistrées dans une norme différente de celle utilisée dans votre pays.
 
 Plus un magnétoscope possède de têtes, meilleure sera la qualité vidéo et audio, avec davantage de détails au visionnage.
+
+## Carte/clé de capture
+
+Pour obtenir le signal vidéo de notre magnétoscope sur un ordinateur, nous pouvons utiliser une carte ou une clé de capture. Il en existe une grande variété, certaines bas de gamme, d’autres haut de gamme.
+
+Je vous recommande d’utiliser une carte ou clé de capture analogique avec une entrée Audio/Vidéo vers USB pour la simplicité.
+
+**⚠️ · Je vous déconseille d’utiliser une clé bon marché comme l’Easycap (clé de basse qualité, non compatible SECAM, avec beaucoup de pertes, etc.)**
